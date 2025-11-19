@@ -10,7 +10,7 @@
 
 ## Demo
 
-insert here
+<img width="512" height="512" alt="изображение" src="https://github.com/user-attachments/assets/bb4bba2f-07a8-4a61-9ec5-6a2ca39ce573" />
 
 ## Description
 
